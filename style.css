@@ -214,7 +214,7 @@ button:hover {
   border: 1px solid rgb(221,52,47);
 }
 .home {
-  background: url(/img/basket.webp) rgb(251,230,144) center / cover no-repeat fixed;
+  background: url(img/basket.webp) rgb(251,230,144) center / cover no-repeat fixed;
   min-height: 140vh; 
 }
 .home__body {
@@ -415,7 +415,7 @@ h3 {
   background-color: rgb(249,242,234);  
 }
 .deliver__body {
-  background: url(/img/bag.webp) rgb(251,230,144) center / cover no-repeat;
+  background: url(img/bag.webp) rgb(251,230,144) center / cover no-repeat;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 200px;
