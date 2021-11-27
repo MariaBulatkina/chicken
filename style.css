@@ -181,6 +181,7 @@ body {
     bottom: 9px;
   }
   .header__menu {
+    
     position: fixed;
     top:-100%;
     left:0;
@@ -214,7 +215,8 @@ button:hover {
   border: 1px solid rgb(221,52,47);
 }
 .home {
-  background: url(img/basket.webp) rgb(251,230,144) center / cover no-repeat fixed;
+  background: url(img/basket.webp)  center / cover no-repeat fixed;
+  background-color: rgb(251,230,144);
   min-height: 140vh; 
 }
 .home__body {
